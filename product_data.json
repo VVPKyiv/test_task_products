@@ -1,0 +1,1 @@
+{"products": [{"name": "test", "description": "string", "price": 340.0, "category": "string", "id": "d35c6041-11aa-4a00-9392-219caff2270d"}, {"name": "string", "description": "string", "price": 10.0, "category": "string", "id": "b47c467e-615a-4cce-a519-99cab1342c56"}], "categories": [], "reviews": [{"text": "review test", "product_id": "d35c6041-11aa-4a00-9392-219caff2270d"}]}

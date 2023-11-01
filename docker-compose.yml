@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - 80:80
+    volumes:
+      - ./:/usr/src
+    env_file:
+      - ./.env
+    stop_grace_period: 30s
+
+
